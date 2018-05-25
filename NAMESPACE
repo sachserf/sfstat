@@ -2,5 +2,4 @@
 
 export(kurtosis)
 export(skew)
-export(skim_remarks)
 export(skim_set)
