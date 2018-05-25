@@ -1,2 +1,13 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+R/framework
+.cache
+files
+out/docs
+inst/extdata
+out
+meta/session_info.txt
+meta/log.csv
+meta/tree.txt
+meta/warnings.Rout
+meta/pkg.bib
